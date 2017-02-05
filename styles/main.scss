@@ -17,6 +17,8 @@ a:hover {
   text-shadow: none; /* Prevent inheritence from `body` */
   background-color: transparent;
   border: 2px solid #fff;
+  border-radius: 20px;
+  padding: 0.5rem 2rem;
 }
 
 
@@ -139,6 +141,32 @@ body {
 .mastfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
+}
+
+/*
+ * Subscribe modal box
+ */
+#subscribeModal {
+  .modal-content {
+    background-color: rgb(48,53,70);
+    color: #fff;
+    text-align: left;
+  }
+  .modal-header, .modal-footer {
+    border: 0;
+  }
+  .close {
+    color: #fff;
+  }
+  .form-control {
+    margin-top: 1rem;
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+
+    &:focus {
+      border-color: #49506a;
+    }
+  }
 }
 
 
