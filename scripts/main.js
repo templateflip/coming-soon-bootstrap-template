@@ -1,2 +1,3 @@
-// Add your javascript here
-// Don't forget to add it into respective layouts where this js file is needed
+$( document ).ready(function() {
+    $(".cover-heading").fitText(1.2, { minFontSize: '32px', maxFontSize: '56px' });
+});

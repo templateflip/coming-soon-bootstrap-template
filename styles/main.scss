@@ -79,6 +79,14 @@ body {
   margin-bottom: 10px;
 }
 
+.nav-masthead {
+  text-align: center;
+  display: block;
+}
+.nav-masthead .nav-link {
+  display: inline-block;
+}
+
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
