@@ -1,0 +1,8 @@
+html:
+  prettyurls: false
+
+## You can add data for site here which will be available as site.{key} in pug templates
+site:
+  url: "https://locahost" # Your sites's URL
+  title: "" # Your site's title
+  desc: "A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com"  # Your site's description
