@@ -18,8 +18,8 @@ description: 'Demo of A Free Coming Soon Bootstrap 4 Template by TemplateFlip.co
         </div>
       </div>      
       <div class="inner cover">
-        <h1 class="cover-heading">Brewing Awesomeness!</h1>
-        <p class="lead">We will be launching soon.. Hold tight as we get together our working robots and produce the most astonishing content ever</p>
+        <h1 class="cover-heading">The adventure Begins</h1>
+        <p class="lead cover-copy">Hold tight as we get our working robots together and produce the most astonishing product ever.</p>
         <p class="lead"><a href="#" class="btn btn-lg btn-default btn-notify">Notify Me</a></p>
       </div>
       <div class="mastfoot">
