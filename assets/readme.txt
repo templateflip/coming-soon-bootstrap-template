@@ -1,5 +1,5 @@
 **Coming Soon Bootstrap 4 Template**
-v1.0.0
+v1.0.1
 Released Date: 10th Feb, 2017
 
 A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com.

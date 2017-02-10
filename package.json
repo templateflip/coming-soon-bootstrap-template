@@ -1,6 +1,6 @@
 {
   "name": "coming-soon-bootstrap-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com",
   "scripts": {
     "clean": "mmpilot clean",
