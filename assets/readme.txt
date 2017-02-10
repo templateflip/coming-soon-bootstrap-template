@@ -1,11 +1,11 @@
-**Material Design Portfolio Template**
-v1.0.1
-Released Date: 24th Jan, 2017
+**Coming Soon Bootstrap 4 Template**
+v1.0.0
+Released Date: 10th Feb, 2017
 
-A Material design portfolio template built with Material Design Light framework by TemplateFlip.com.
+A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com.
 
-Live Demo - https://demo.templateflip.com/material-portfolio
-Download - https://templateflip.com/templates/material-portfolio/
+Live Demo - https://templateflip.com/demo/?template=coming-soon-bootstrap-template
+Download - https://templateflip.com/templates/coming-soon-bootstrap-template/
 
 You may also want to check out other Website templates - https://templateflip.com/templates/
 

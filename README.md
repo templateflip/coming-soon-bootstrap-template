@@ -5,7 +5,7 @@ A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com.
 
 **[Download](https://templateflip.com/templates/coming-soon-bootstrap-template/)**
 
-<a href="https://templateflip.com/templates/coming-soon-bootstrap/"><img src="https://raw.githubusercontent.com/templateflip/coming-soon-bootstrap-template/master/assets/img/coming-soon-bootstrap-screenshot.png" alt="Coming Soon Bootstrap 4 Template"><img></a>
+<a href="https://templateflip.com/templates/coming-soon-bootstrap/"><img src="https://raw.githubusercontent.com/templateflip/coming-soon-bootstrap-template/master/assets/img/coming-soon-bootstrap-screenshot.jpg" alt="Coming Soon Bootstrap 4 Template"><img></a>
 
 You may also want to check out other [Website templates](https://templateflip.com/templates/).
 
