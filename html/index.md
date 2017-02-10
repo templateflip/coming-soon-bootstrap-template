@@ -40,7 +40,7 @@ description: 'Demo of A Free Coming Soon Bootstrap 4 Template by TemplateFlip.co
             <div class="modal-body">
               <form>
                 <div class="form-group">
-                  <label for="recipient-name" class="form-control-label">Enter you e-mail to get notifed when we launch</label>
+                  <label for="recipient-name" class="form-control-label">Enter you e-mail to get notified when we launch</label>
                   <input type="text" class="form-control" id="recipient-name" placeholder="your-name@example.com">
                 </div>
               </form>
