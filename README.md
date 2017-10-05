@@ -33,3 +33,5 @@ You may also want to check out other [Website templates](https://templateflip.co
 
 Licensed under the Creative [Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/).
 You can use this template for free in both personal as well as commercial projects. In return, just credit [https://templateflip.com](https://templateflip.com/) for the website template on your site.
+
+Alternatively, you can [purchase](https://templateflip.com/templates/coming-soon-bootstrap-template/) a premium license in which case you don't need to credit our site.
