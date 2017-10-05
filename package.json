@@ -1,6 +1,6 @@
 {
   "name": "coming-soon-bootstrap-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com",
   "scripts": {
     "clean": "mmpilot clean",
@@ -11,7 +11,7 @@
     "dev": "npm-run-all clean dev-build --parallel dev-watch serve",
     "prod": "npm-run-all clean build serve",
     "deploy": "npm-run-all clean build && mmpilot deploy",
-    "dist": "npm run dev-build && node dist.js"
+    "dist": "npm-run-all clean dev-build && node dist.js"
   },
   "repository": {
     "type": "git",
@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/templateflip/coming-soon-bootstrap-template#readme",
   "devDependencies": {
-    "mmpilot": "^0.6.3",
-    "npm-run-all": "^4.0.1",
-    "shelljs": "^0.7.6"
+    "mmpilot": "^0.6.5",
+    "npm-run-all": "^4.1.1",
+    "shelljs": "^0.7.8"
   },
   "dependencies": {}
 }
